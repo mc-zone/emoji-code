@@ -3,7 +3,7 @@ emoji-code
 
 kinds of code for emoji
 
-emoji表情的名称和各种编码
+emoji表情的名称和各种编码数据
 
 ##编码包括
 
@@ -17,7 +17,7 @@ softb_unicode // \ue04a 在微信中可用到
 
 ```
 
-##目前提供的格式有：
+##目前提供的格式
 
 ```
 sql
@@ -25,11 +25,12 @@ json
 yaml
 csv
 ```
-
+====
 数据参考来源于：
+
 [iamcal/php-emoji](https://github.com/iamcal/php-emoji)
 
-可根据classname使用这个项目中的样式表
+可根据class name使用这个项目中的样式表
 
 ##License
 
