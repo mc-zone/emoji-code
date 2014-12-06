@@ -1,9 +1,9 @@
 emoji-code
 ==========
 
-kinds of code for emoji
+Kinds of codes for Emoji
 
-emoji表情的名称和各种编码数据
+Emoji表情的名称和各种编码数据
 
 ##编码包括
 
