@@ -1,6 +1,12 @@
 emoji-code
 ==========
 
+
+**Deprecated**. (Long time no update. Emoji had increased to 4 bytes currently. )
+----
+
+
+
 Kinds of codes for Emoji
 
 Emoji表情的名称和各种编码数据
